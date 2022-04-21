@@ -1,6 +1,6 @@
 {
   "name": "ipos",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "main.js",
   "description": "A simple and elegant point of sale",
   "private": true,
@@ -16,9 +16,7 @@
     ],
     "publish": [
       {
-        "owner": "Ian Mugenya",
-        "provider": "github",
-        "repo": "IPOS"
+        "provider": "github"
       }
     ],
     "directories": {
